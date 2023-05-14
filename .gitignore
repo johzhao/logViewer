@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+venv/
+data/
+
+.DS_Store
+*.pyc
+
+ui_form.py
